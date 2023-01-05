@@ -8,7 +8,4 @@ int main() {
   for(int i = 1; i <= 10; i++) {
     num++;
   }
-  if(num >= 10) {
-    cout << num << "\n";
-  }
 }
